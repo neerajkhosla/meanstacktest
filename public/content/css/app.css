@@ -1,0 +1,42 @@
+html {width: 100%;height: 100%;margin: 0;padding: 0;}
+body {line-height: 1.4; font-size: 0.85em !important;width: 100%;background-color: #FFF;margin:0;padding:0;
+      font-family:"Helvetica Neue","HelveticaNeue",Helvetica,Arial,"Lucida Grande",sans-serif; }
+body a {text-decoration:underline;color: #0000EE;}
+audio {display: none;}
+p {font-size: 1em !important;margin-bottom: 18px;}
+
+#mydiv {height: 600px;position: relative;}
+.myajax-loader {position: absolute;left: 50%;top: 50%;margin-left: -32px; /* -1 * image width / 2 */margin-top: -32px; /* -1 * image height / 2 */}
+
+.ajax-loader {background: #FFF url('../img/ajax-loader.gif') center center no-repeat;}
+
+/*override jquery ui styles*/
+.ui-dialog .ui-dialog-title {white-space: normal;}
+.ui-widget-overlay {background: #000;opacity: 0.8;}
+.ui-widget-content .ui-message a {color:#0000EE;}
+.ui-widget {font-family: inherit;}
+.ui-button-icon-only .ui-icon {height: 20px;left: 5px;margin: 0;padding: 0;top: 4px;width: 20px;background-position: -95px -127px;}
+.ui-button-icon-only .ui-button-text {display: none;}
+.ui-button-icon-only.ui-state-default, 
+.ui-button-icon-only.ui-state-focus,
+.ui-button-icon-only.ui-state-hover {height:27px;width: 30px;top:15px;
+                                    background: url("theme/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png") repeat-x scroll 50% 50% #E6E6E6;
+                                    border: 1px solid #D3D3D3;color: #555555;font-weight: normal; }
+.message-box .ui-icon {background: none;}
+
+#viewport {float:left;clear:both;width: 100%;display: none;margin:0;padding: 0;}
+#viewport #content {display: block;clear:both;max-width: 980px;margin: 0 auto;padding: 0;height: auto;}
+#viewport #content .content-clear-both {clear:both;height:1px;width:100%;margin:0;padding:0;}
+#viewport #screen {float:left;clear:both;width: 100%;min-height: 100%;height: auto !important;margin:0;padding: 0;}
+
+ul, ol { margin-bottom: 18px; margin-left: 30px;}
+ol { list-style: decimal; }
+li { margin-bottom: 12px; }
+
+em, i { font-style: italic; line-height: inherit; }
+strong, b { font-weight: bold; line-height: inherit; }
+
+@media screen and (max-width: 1024px) {
+   #viewport #content {margin-left: 20px;margin-right: 20px;}
+}
+

@@ -1,0 +1,55 @@
+{
+    "name": "HTML5 Avanzado con Ruby on Rails",
+    "label": [
+        { "id": "bookmark-prompt", "value": "Do you want to return to your last viewed screen?" }
+    ],
+    "param": [
+        { "id": "theme_color", "value": "#FFFFFF" },
+        { "id": "background-color", "value": "#CCCCCC" },
+        { "id": "bullets-border-color", "value": "#333333" },
+        { "id": "bullets-background-color", "value": "#FFFFFF" },
+        { "id": "bullets-fill-color", "value": "#A0CBFE" },
+        { "id": "background-gradient-start-color", "value": "#3d3d3d" },
+        { "id": "background-gradient-end-color", "value": "#8b8a8a" },
+        { "id": "box-frame-gradient-start-color", "value": "#919594" },
+        { "id": "box-frame-gradient-end-color", "value": "#4c5554" },
+        { "id": "box-frame-shadow-color", "value": "#000000" },
+        { "id": "serializeelements", "value": "true" },
+        { "id": "unit-menu-header-text", "value": "Módulos" },
+        { "id": "topic-menu-header-text", "value": "Secciones" },
+        { "id": "return-to-bookmark-prompt", "value": "Desea navegar hacia la última pantalla vista?" }
+    ],
+    "unit": [
+        {
+            "id": "0001",
+            "name": "Introducción",
+            "type": 0,
+            "language": "en",
+            "param": [
+                { "id": "_paramid1_", "value": "_paramvalue_" },
+                { "id": "_paramid2_", "value": "_paramvalue_" },
+                { "id": "_paramid3_", "value": "_paramvalue_" }
+            ],
+            "topic": [
+                {
+                    "id": "00001",
+                    "name": "Historia de Ruby on Rails",
+                    "type": 0,
+                    "language": "en",
+
+                    "param": [
+                        { "id": "_paramid1_", "value": "_paramvalue_" },
+                        { "id": "_paramid2_", "value": "_paramvalue_" },
+                        { "id": "_paramid3_", "value": "_paramvalue_" } 
+                    ],
+
+                    "screen": [
+                        { "id": "00000", "type": 0, "pos": 1 },
+                        { "id": "00000", "type": 0, "pos": 2 },
+                        { "id": "00000", "type": 0, "pos": 3 } 
+                    ]
+                }
+            ]
+        }
+    ]
+}

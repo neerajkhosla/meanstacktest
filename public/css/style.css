@@ -1,0 +1,9 @@
+﻿.panel-body.todo{border: 1px solid #ddd;padding: 2px !important;}
+.course.todo{border: 1px solid rgb(221, 221, 221);padding: 10px !important;text-align: justify;}
+.course.main{padding: 10px !important;}
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 835px !important;
+       
+    }
+}

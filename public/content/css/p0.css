@@ -1,0 +1,48 @@
+/*
+ VERY IMPORTANT!!! 
+ - always use .screen-container before each style definitions 
+   in order to encapsulate styles and prevent inappropriate behaviors
+*/
+
+.screen-container {
+    float: left;
+    width: 100%;
+    margin-top: 30px;
+}
+
+    .screen-container #title {
+        float: left;
+        width: 100%;
+        font-weight: bold;
+        display: none;
+        margin: 5px 0;
+        font-size: 18px;
+        opacity: 0.6;
+    }
+
+    .screen-container #a1 {
+        width: 350px;
+        display: none;
+        position: relative;
+        opacity: 0.6;
+    }
+
+    .screen-container #a2 {
+        width: 350px;
+        display: none;
+        position: relative;
+        opacity: 0.6;
+    }
+
+    .screen-container a.message {
+        float: left;
+        display: none;
+    }
+
+    .screen-container #img1 {
+        float: right;
+        width: 350px;
+        display: none;
+        position: relative;
+        margin-top: -155px;
+    }

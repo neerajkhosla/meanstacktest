@@ -1,0 +1,152 @@
+{
+    "id" : "97psj",
+     "name" : "Imagen vertical pequeña a la derecha",
+     "type" : "1",
+     "language" : "es",
+     "version" : "1.0.0",
+     "isenabled" : "true",
+      "param" : [
+         {
+            "id" : "description",
+             "value" : "&nbsp;" 
+        },
+         {
+            "id" : "readystatus",
+             "value" : "false" 
+        },
+         {
+            "id" : "readyuser",
+             "value" : "&nbsp;" 
+        },
+         {
+            "id" : "readydate",
+             "value" : "0001-01-01T00:00:00.0000000" 
+        },
+         {
+            "id" : "audionotes",
+             "value" : "&nbsp;" 
+        },
+         {
+            "id" : "layout",
+             "value" : "1" 
+        },
+         {
+            "id" : "isvisible",
+             "value" : "true" 
+        },
+         {
+            "id" : "title_color",
+             "value" : "&nbsp;" 
+        },
+         {
+            "id" : "languagestyle",
+             "value" : "0" 
+        },
+         {
+            "id" : "theme_color",
+             "value" : "0x006699" 
+        },
+         {
+            "id" : "useembeddedfonts",
+             "value" : "&nbsp;" 
+        },
+         {
+            "id" : "istest",
+             "value" : "false" 
+        },
+         {
+            "id" : "cc",
+             "value" : "&nbsp;" 
+        },
+         {
+            "id" : "a1courier",
+             "value" : "false" 
+        } 
+    ],
+      "text" : [
+         {
+            "id" : "review",
+             "type" : "0",
+             "datecreated" : "30/01/2013 18:48:37",
+             "datemodified" : "2013-01-30T18:48:37.7391948",
+             "notes" : "",
+             "content" : "Regresar",
+              "param" : [
+                  
+            ] 
+        } 
+    ],
+      "audio" : [
+         {
+            "id" : "a1",
+             "type" : "1",
+             "notes" : "",
+             "creator" : "",
+             "statususer" : "",
+             "datecreated" : "30/01/2013 18:48:53",
+             "datemodified" : "2013-01-30T18:48:53.9789167",
+             "status" : "0",
+             "content" : "<p>Mauris eget nunc sapien. Aenean rhoncus accumsan eleifend. Sed dictum scelerisque orci eget tempor. Maecenas lacus turpis, pulvinar gravida lobortis id, suscipit id mi. Sed congue nibh ac neque congue commodo. Sed sollicitudin dui vel nibh commodo suscipit. Duis metus quam, eleifend id egestas vel, malesuada vitae dolor.</p>",
+              "source" : [
+                 {
+                    "src" : "00000_a1.mp3",
+                     "type" : "audio/mpeg" 
+                },
+                 {
+                    "src" : "00000_a1.ogg",
+                     "type" : "audio/ogg" 
+                } 
+            ],
+              "param" : [
+                  
+            ] 
+        },
+         {
+            "id" : "a2",
+             "type" : "1",
+             "notes" : "",
+             "creator" : "",
+             "statususer" : "",
+             "datecreated" : "30/01/2013 18:48:53",
+             "datemodified" : "2013-01-30T18:48:53.9789167",
+             "status" : "0",
+             "content" : "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget magna ac enim lacinia vestibulum eget vel felis. Nulla facilisi. Mauris vestibulum rhoncus pulvinar. Curabitur eget velit eu risus ultrices tristique. Pellentesque adipiscing adipiscing porta. Phasellus ut eros at libero dapibus fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+              "source" : [
+                 {
+                    "src" : "00000_a2.mp3",
+                     "type" : "audio/mpeg" 
+                },
+                 {
+                    "src" : "00000_a2.ogg",
+                     "type" : "audio/ogg" 
+                } 
+            ],
+              "param" : [
+                  
+            ] 
+        } 
+    ],
+      "image" : [
+         {
+            "id" : "i1",
+             "type" : "1",
+             "notes" : "",
+             "creator" : "",
+             "statususer" : "",
+             "datecreated" : "30/01/2013 18:48:53",
+             "isanimation" : "False",
+             "datemodified" : "",
+             "status" : "0",
+             "content" : "Aenean elementum viverra odio, id sagittis est dapibus sit amet. Vestibulum quam augue, placerat vitae aliquam ut, ultrices nec tortor. Suspendisse iaculis ultricies ante, ac aliquam erat vestibulum ac. Aliquam suscipit ante at augue hendrerit suscipit auctor nulla feugiat. Cras aliquet malesuada tortor, eu euismod nunc dapibus vel. Integer sit amet ipsum turpis. Cras at metus fringilla neque placerat iaculis eu in odio. Nam malesuada lectus quis metus dapibus euismod. Duis sem arcu, pulvinar ut pulvinar a, ultrices at lacus. Curabitur leo tortor, gravida non condimentum id, lacinia sit amet erat. Quisque rhoncus tempor lacus eu rhoncus. Vestibulum mattis scelerisque neque, molestie dapibus metus vulputate eu. Morbi rutrum gravida tortor, auctor sollicitudin dolor venenatis sed.",
+              "source" : [
+                 {
+                    "src" : "00000_i1.jpg",
+                     "type" : "jpg" 
+                } 
+            ],
+              "param" : [
+                  
+            ] 
+        } 
+    ] 
+    }

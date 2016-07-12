@@ -1,0 +1,13 @@
+{
+  "name": "meanStackTest",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "express-session": "^1.14.0",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.5.3"
+  }
+}

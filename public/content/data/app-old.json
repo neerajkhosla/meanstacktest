@@ -1,0 +1,31 @@
+{
+	"title": "Test Course",
+
+	"interface_colors": [
+		{"background": "#000"}
+	],
+
+	"navigation_bar": "00000",
+
+	"unit": [
+		{
+			"id": "l1",
+			"randomize": false,
+			"name": "Unit 1",
+			"topic": [
+				{
+					"id": "00000",
+					"randomize": false,
+					"name": "Topic 1.1",
+					"screen": [
+						{
+							"id": "00000",
+							"type": 0,
+							"name": "Screen 1.1.1"
+						}
+					]
+				}
+			]
+		}
+	]
+}
